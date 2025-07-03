@@ -1,0 +1,228 @@
+2025-06-26 18:53:18,352 - INFO - Could not import comtypes.gen, trying to create it.
+2025-06-26 18:53:18,356 - INFO - Created comtypes.gen directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 18:53:18,357 - INFO - Writing __init__.py file: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen\__init__.py'
+2025-06-26 18:53:18,389 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 18:53:18,596 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-06-26 18:53:18,746 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-06-26 18:53:19,033 - INFO - # Generating comtypes.gen.SpeechLib
+2025-06-26 18:53:19,053 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-06-26 18:53:19,055 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-06-26 18:53:19,070 - INFO - # Generating comtypes.gen.stdole
+2025-06-26 18:53:43,443 - ERROR - Error: Could not find PyAudio; check installation
+2025-06-26 18:53:46,498 - ERROR - Error: Could not find PyAudio; check installation
+2025-06-26 19:04:21,534 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\Downloads\\voicebot\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 19:04:21,536 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 19:04:28,115 - ERROR - Error: Could not find PyAudio; check installation
+2025-06-26 20:27:12,453 - INFO - Could not import comtypes.gen, trying to create it.
+2025-06-26 20:27:12,455 - INFO - Created comtypes.gen directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 20:27:12,456 - INFO - Writing __init__.py file: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen\__init__.py'
+2025-06-26 20:27:12,490 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 20:27:12,614 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-06-26 20:27:12,626 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-06-26 20:27:12,824 - INFO - # Generating comtypes.gen.SpeechLib
+2025-06-26 20:27:12,845 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-06-26 20:27:12,847 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-06-26 20:27:12,865 - INFO - # Generating comtypes.gen.stdole
+2025-06-26 20:27:29,649 - ERROR - Error: Could not find PyAudio; check installation
+2025-06-26 20:46:16,942 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\Downloads\\voicebot\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 20:46:16,947 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 20:54:32,079 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\Downloads\\voicebot\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 20:54:32,081 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 20:56:25,636 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-26 20:56:26,579 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-26 20:57:35,334 - INFO - User: xin chào
+Bot: Xin l\u1ed7i, tôi g\u1eb7p l\u1ed7i khi k\u1ebft n\u1ed1i v\u1edbi AI: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-26 21:02:18,463 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\Downloads\\voicebot\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 21:02:18,467 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 21:05:49,062 - INFO - User: xin chào
+Bot: Xin l\u1ed7i, tôi g\u1eb7p l\u1ed7i khi k\u1ebft n\u1ed1i v\u1edbi AI: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-06-26 21:21:28,721 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\Downloads\\voicebot\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 21:21:28,724 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 21:24:19,646 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 21:24:19,650 - INFO - Retrying request to /chat/completions in 0.421869 seconds
+2025-06-26 21:24:21,589 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 21:24:21,591 - INFO - Retrying request to /chat/completions in 0.764952 seconds
+2025-06-26 21:24:23,118 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 21:24:57,559 - INFO - User: xin chào
+Bot: Xin l\u1ed7i, tôi g\u1eb7p l\u1ed7i khi k\u1ebft n\u1ed1i v\u1edbi AI: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-26 21:35:43,210 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\Downloads\\voicebot\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 21:35:43,214 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 21:36:58,872 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 21:36:58,876 - INFO - Retrying request to /chat/completions in 0.458631 seconds
+2025-06-26 21:36:59,641 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 21:36:59,641 - INFO - Retrying request to /chat/completions in 0.992662 seconds
+2025-06-26 21:37:01,309 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 21:37:16,461 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-26 21:37:18,715 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-26 21:37:35,182 - INFO - User: xin chào
+Bot: Xin l\u1ed7i, tôi g\u1eb7p l\u1ed7i khi k\u1ebft n\u1ed1i v\u1edbi AI: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-26 21:37:38,830 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-26 21:37:48,089 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-06-26 21:38:10,586 - INFO - User: chào b\u1ea1n
+Bot: Xin l\u1ed7i, tôi g\u1eb7p l\u1ed7i khi k\u1ebft n\u1ed1i v\u1edbi AI: Error code: 404 - {'error': {'message': 'The model `gpt-4` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-06-26 21:49:25,908 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\Downloads\\voicebot\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 21:49:25,912 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\Downloads\voicebot\venv\Lib\site-packages\comtypes\gen'
+2025-06-26 22:04:56,732 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 22:04:56,747 - INFO - Retrying request to /chat/completions in 0.411011 seconds
+2025-06-26 22:04:58,133 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 22:04:58,135 - INFO - Retrying request to /chat/completions in 0.905561 seconds
+2025-06-26 22:05:00,251 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 22:05:36,703 - INFO - User: xin chào
+Bot: Xin l\u1ed7i, tôi g\u1eb7p l\u1ed7i khi k\u1ebft n\u1ed1i v\u1edbi AI: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-26 22:12:41,359 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 22:12:41,365 - INFO - Retrying request to /chat/completions in 0.418940 seconds
+2025-06-26 22:12:42,185 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-26 22:12:42,185 - INFO - Retrying request to /chat/completions in 0.878942 seconds
+2025-06-26 22:12:44,703 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-27 13:00:22,444 - ERROR - Speech error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\voice_bot_response.mp3'
+2025-06-27 13:00:22,581 - INFO - User: h\u1ec7 th\u1ed1ng
+Bot: Xin l\u1ed7i, tôi ch\u01b0a hi\u1ec3u câu l\u1ec7nh này. Hãy th\u1eed các l\u1ec7nh nh\u01b0 'm\u1edf video [ch\u1ee7 \u0111\u1ec1]', 'm\u1edf notepad', 'tìm ki\u1ebfm [ch\u1ee7 \u0111\u1ec1]', 't\u0103ng âm l\u01b0\u1ee3ng', ho\u1eb7c 'ch\u1ee5p màn hình'.
+2025-06-27 13:00:35,577 - ERROR - Speech error: [Errno 13] Permission denied: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\voice_bot_response.mp3'
+2025-06-27 13:00:35,581 - INFO - User: H\u1ec7 th\u1ed1ng
+Bot: Xin l\u1ed7i, tôi ch\u01b0a hi\u1ec3u câu l\u1ec7nh này. Hãy th\u1eed các l\u1ec7nh nh\u01b0 'm\u1edf video [ch\u1ee7 \u0111\u1ec1]', 'm\u1edf notepad', 'tìm ki\u1ebfm [ch\u1ee7 \u0111\u1ec1]', 't\u0103ng âm l\u01b0\u1ee3ng', ho\u1eb7c 'ch\u1ee5p màn hình'.
+2025-06-27 13:00:57,304 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-27 13:01:07,542 - ERROR - Speech error: [Errno 13] Permission denied: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\voice_bot_response.mp3'
+2025-06-27 13:01:07,549 - INFO - User: H\u1ec7 th\u1ed1ng
+Bot: Xin l\u1ed7i, tôi ch\u01b0a hi\u1ec3u câu l\u1ec7nh này. Hãy th\u1eed các l\u1ec7nh nh\u01b0 'm\u1edf video [ch\u1ee7 \u0111\u1ec1]', 'm\u1edf notepad', 'tìm ki\u1ebfm [ch\u1ee7 \u0111\u1ec1]', 't\u0103ng âm l\u01b0\u1ee3ng', ho\u1eb7c 'ch\u1ee5p màn hình'.
+2025-06-27 13:01:27,018 - ERROR - Speech error: [Errno 13] Permission denied: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\voice_bot_response.mp3'
+2025-06-27 13:01:27,027 - INFO - User: xin chào
+Bot: Xin chào! R\u1ea5t vui \u0111\u01b0\u1ee3c trò chuy\u1ec7n v\u1edbi b\u1ea1n.
+2025-06-27 13:01:39,030 - ERROR - Speech error: [Errno 13] Permission denied: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\voice_bot_response.mp3'
+2025-06-27 13:01:39,041 - INFO - User: m\u1ea5y gi\u1edd r\u1ed3i
+Bot: Bây gi\u1edd là 13:01:39.
+2025-06-27 13:34:10,763 - INFO - User: xin chào
+Bot: Xin chào! R\u1ea5t vui \u0111\u01b0\u1ee3c trò chuy\u1ec7n v\u1edbi b\u1ea1n.
+2025-06-27 14:21:48,310 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-27 14:22:10,458 - INFO - User: M\u1edf Youtube
+Bot: Xin l\u1ed7i, tôi ch\u01b0a hi\u1ec3u câu l\u1ec7nh này. Hãy th\u1eed các l\u1ec7nh nh\u01b0 'm\u1edf video [ch\u1ee7 \u0111\u1ec1]', 'm\u1edf notepad', 'tìm ki\u1ebfm [ch\u1ee7 \u0111\u1ec1]', 't\u0103ng âm l\u01b0\u1ee3ng', ho\u1eb7c 'ch\u1ee5p màn hình'.
+2025-06-27 14:25:04,683 - INFO - User: phát bài hát [th\u1eb1ng \u0111iên]
+Bot: \u0110ã m\u1edf YouTube v\u1edbi tìm ki\u1ebfm: [th\u1eb1ng \u0111iên]
+2025-06-27 14:26:55,865 - INFO - User: m\u1ea5y gi\u1edd r\u1ed3i
+Bot: Bây gi\u1edd là 14:26:50.
+2025-06-27 14:28:41,606 - INFO - User: b\u1ea1n là ai
+Bot: Tôi là Super Voice Bot, tr\u1ee3 lý \u1ea3o c\u1ee7a b\u1ea1n!
+2025-06-27 14:46:59,295 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-27 14:47:20,648 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\79e8b9c9-415b-4cac-a8c5-8a2bd4cbc801.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\79e8b9c9-415b-4cac-a8c5-8a2bd4cbc801.mp3'
+2025-06-27 14:47:20,649 - INFO - User: th\u1eddi ti\u1ebft Biên Hòa
+Bot: \u0110ã m\u1edf th\u1eddi ti\u1ebft cho biên hòa trên Google.
+2025-06-27 14:48:05,083 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\e06f6499-a751-4324-b900-8158c2dad2ac.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\e06f6499-a751-4324-b900-8158c2dad2ac.mp3'
+2025-06-27 14:48:05,083 - INFO - User: tr\u1ea1ng thái h\u1ec7 th\u1ed1ng
+Bot: CPU: 14.3% s\u1eed d\u1ee5ng. M\u1ee9c pin: 56% (\u0110ang c\u1eafm s\u1ea1c: Không)
+2025-06-27 14:49:12,469 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\1bdb13b4-2b7a-4783-99a7-bfcdca9e8e52.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\1bdb13b4-2b7a-4783-99a7-bfcdca9e8e52.mp3'
+2025-06-27 14:49:12,470 - INFO - User: phát bài hát l\u1ee5y tình
+Bot: \u0110ã m\u1edf tìm ki\u1ebfm YouTube cho: l\u1ee5y tình
+Nói 'phát video s\u1ed1 [1-5]' \u0111\u1ec3 ch\u1ecdn video t\u1eeb k\u1ebft qu\u1ea3.
+2025-06-27 14:49:43,444 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\59301eaf-361b-4300-b5c5-561c670ce42c.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\59301eaf-361b-4300-b5c5-561c670ce42c.mp3'
+2025-06-27 14:49:43,444 - INFO - User: phát video s\u1ed1 1
+Bot: \u0110ã m\u1edf tìm ki\u1ebfm YouTube cho: s\u1ed1 1
+Nói 'phát video s\u1ed1 [1-5]' \u0111\u1ec3 ch\u1ecdn video t\u1eeb k\u1ebft qu\u1ea3.
+2025-06-27 14:50:33,550 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\a1cbc1c1-510a-4cce-a91b-e4cb5ff0f6e8.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\a1cbc1c1-510a-4cce-a91b-e4cb5ff0f6e8.mp3'
+2025-06-27 14:50:33,550 - INFO - User: hôm nay là th\u1ee9 m\u1ea5y
+Bot: Hôm nay là Th\u1ee9 Sáu.
+2025-06-27 14:50:44,251 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\d2ffb006-9cd5-4d68-b249-9d46f704d2eb.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\d2ffb006-9cd5-4d68-b249-9d46f704d2eb.mp3'
+2025-06-27 14:50:44,253 - INFO - User: xin chào
+Bot: Xin chào! R\u1ea5t vui \u0111\u01b0\u1ee3c trò chuy\u1ec7n v\u1edbi b\u1ea1n.
+2025-06-27 15:04:55,357 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-27 15:05:25,386 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\b9c97d96-d06f-497d-ac81-f09380e8ae1f.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\b9c97d96-d06f-497d-ac81-f09380e8ae1f.mp3'
+2025-06-27 15:05:25,387 - INFO - User: xin chào
+Bot: Xin chào! R\u1ea5t vui \u0111\u01b0\u1ee3c trò chuy\u1ec7n v\u1edbi b\u1ea1n.
+2025-06-27 15:08:14,829 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\a7edad12-f8a0-4426-ac75-81a9c615dab5.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\a7edad12-f8a0-4426-ac75-81a9c615dab5.mp3'
+2025-06-27 15:08:14,829 - INFO - User: phát bài hát l\u1ee5y tình
+Bot: K\u1ebft qu\u1ea3 tìm ki\u1ebfm YouTube:
+1. Video v\u1ec1 l\u1ee5y tình 1
+2. Video v\u1ec1 l\u1ee5y tình 2
+3. Video v\u1ec1 l\u1ee5y tình 3
+4. Video v\u1ec1 l\u1ee5y tình 4
+5. Video v\u1ec1 l\u1ee5y tình 5
+Nói 'phát video s\u1ed1 [1-5]' \u0111\u1ec3 ch\u1ecdn video.
+2025-06-27 15:09:55,000 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\67bff3a7-ded9-47d7-9b3f-7387de979f84.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\67bff3a7-ded9-47d7-9b3f-7387de979f84.mp3'
+2025-06-27 15:09:55,000 - INFO - User: phát video s\u1ed1 1
+Bot: K\u1ebft qu\u1ea3 tìm ki\u1ebfm YouTube:
+1. Video v\u1ec1 s\u1ed1 1 1
+2. Video v\u1ec1 s\u1ed1 1 2
+3. Video v\u1ec1 s\u1ed1 1 3
+4. Video v\u1ec1 s\u1ed1 1 4
+5. Video v\u1ec1 s\u1ed1 1 5
+Nói 'phát video s\u1ed1 [1-5]' \u0111\u1ec3 ch\u1ecdn video.
+2025-06-27 15:10:49,088 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\0b24a499-b819-43d5-899c-cb5bad02a18f.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\0b24a499-b819-43d5-899c-cb5bad02a18f.mp3'
+2025-06-27 15:10:49,088 - INFO - User: tr\u1ea1ng thái h\u1ec7 th\u1ed1ng
+Bot: CPU: 24.9% s\u1eed d\u1ee5ng. M\u1ee9c pin: 45% (\u0110ang c\u1eafm s\u1ea1c: Không)
+2025-06-27 15:34:23,539 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\fbad8a3b-2af4-4633-93fe-2d4a736150c5.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\fbad8a3b-2af4-4633-93fe-2d4a736150c5.mp3'
+2025-06-27 15:34:23,540 - INFO - User: m\u1ea5y gi\u1edd r\u1ed3i
+Bot: Bây gi\u1edd là 15:34:18.
+2025-06-27 15:34:46,605 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\208512b3-edf4-43ca-9053-b9f89c9a2ea1.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\208512b3-edf4-43ca-9053-b9f89c9a2ea1.mp3'
+2025-06-27 15:34:46,605 - INFO - User: th\u1eddi ti\u1ebft \u0111\u1ed3ng nai
+Bot: \u0110ã m\u1edf th\u1eddi ti\u1ebft cho \u0111\u1ed3ng nai trên Google.
+2025-06-27 15:34:59,643 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\f0927743-db78-4ccd-acac-63f317804790.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\f0927743-db78-4ccd-acac-63f317804790.mp3'
+2025-06-27 15:34:59,644 - INFO - User: xin chào
+Bot: Xin chào! R\u1ea5t vui \u0111\u01b0\u1ee3c trò chuy\u1ec7n v\u1edbi b\u1ea1n.
+2025-06-27 15:48:09,788 - ERROR - Audio control initialization error: name 'AudioUtilities' is not defined
+2025-06-27 15:49:25,106 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_0ca94815-8bd2-45f3-bf89-e731928099fb.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_0ca94815-8bd2-45f3-bf89-e731928099fb.mp3'
+2025-06-27 15:49:25,107 - INFO - User: xin chào
+Bot: Xin chào! R\u1ea5t vui \u0111\u01b0\u1ee3c trò chuy\u1ec7n v\u1edbi b\u1ea1n.
+2025-06-27 15:50:33,686 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_197d8906-5c28-4ee9-9e5c-1e7ce862c1c1.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_197d8906-5c28-4ee9-9e5c-1e7ce862c1c1.mp3'
+2025-06-27 15:50:33,686 - INFO - User: h\u1ec7 th\u1ed1ng
+Bot: Xin l\u1ed7i, tôi ch\u01b0a hi\u1ec3u câu l\u1ec7nh này. Hãy th\u1eed các l\u1ec7nh nh\u01b0 'm\u1edf video [ch\u1ee7 \u0111\u1ec1]', 'phát video s\u1ed1 [1-5]', 'phát t\u1ea5t c\u1ea3', 'th\u1eddi ti\u1ebft [\u0111\u1ecba \u0111i\u1ec3m]', 'm\u1edf file explorer', 't\u1eaft máy', 'kh\u1edfi \u0111\u1ed9ng l\u1ea1i', 'tìm ki\u1ebfm hình \u1ea3nh [ch\u1ee7 \u0111\u1ec1]', ho\u1eb7c 'ch\u1ee5p màn hình'.
+2025-06-27 15:52:03,524 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_a84f6c3f-83ad-4469-bc81-e9e9e4a8f5e5.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_a84f6c3f-83ad-4469-bc81-e9e9e4a8f5e5.mp3'
+2025-06-27 15:52:03,524 - INFO - User: tr\u1ea1ng thái h\u1ec7 th\u1ed1ng
+Bot: CPU: 22.6% s\u1eed d\u1ee5ng. M\u1ee9c pin: 28% (\u0110ang c\u1eafm s\u1ea1c: Không)
+2025-06-27 15:56:49,157 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-27 15:59:19,819 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_ab14183d-de8b-4ba7-9596-0c81e41175b4.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_ab14183d-de8b-4ba7-9596-0c81e41175b4.mp3'
+2025-06-27 15:59:19,820 - INFO - User: tìm ki\u1ebfm tin t\u1ee9c hacker
+Bot: \u0110ã m\u1edf tìm ki\u1ebfm tin t\u1ee9c cho: hacker
+2025-06-27 16:02:58,108 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_25abd254-d18e-4686-a08a-7a76625fb273.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_25abd254-d18e-4686-a08a-7a76625fb273.mp3'
+2025-06-27 16:02:58,108 - INFO - User: phát bài hát l\u1ee5y tình remix
+Bot: K\u1ebft qu\u1ea3 tìm ki\u1ebfm YouTube:
+1. Video v\u1ec1 l\u1ee5y tình remix 1
+2. Video v\u1ec1 l\u1ee5y tình remix 2
+3. Video v\u1ec1 l\u1ee5y tình remix 3
+4. Video v\u1ec1 l\u1ee5y tình remix 4
+5. Video v\u1ec1 l\u1ee5y tình remix 5
+Nói 'phát video s\u1ed1 [1-5]' \u0111\u1ec3 ch\u1ecdn video ho\u1eb7c 'phát t\u1ea5t c\u1ea3' \u0111\u1ec3 m\u1edf danh sách phát.
+2025-06-27 16:05:31,376 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_cdf803a9-1df8-4fd7-a18a-341d91ebfdcd.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_cdf803a9-1df8-4fd7-a18a-341d91ebfdcd.mp3'
+2025-06-27 16:05:31,377 - INFO - User: 1
+Bot: Xin l\u1ed7i, tôi ch\u01b0a hi\u1ec3u câu l\u1ec7nh này. Hãy th\u1eed các l\u1ec7nh nh\u01b0 'm\u1edf video [ch\u1ee7 \u0111\u1ec1]', 'phát video s\u1ed1 [1-5]', 'phát t\u1ea5t c\u1ea3', 'th\u1eddi ti\u1ebft [\u0111\u1ecba \u0111i\u1ec3m]', 'm\u1edf file explorer', 't\u1eaft máy', 'kh\u1edfi \u0111\u1ed9ng l\u1ea1i', 'tìm ki\u1ebfm hình \u1ea3nh [ch\u1ee7 \u0111\u1ec1]', ho\u1eb7c 'ch\u1ee5p màn hình'.
+2025-06-27 16:06:03,982 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_2e8fe1ed-1754-4a4b-a8e4-b6ba98f3c45e.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_2e8fe1ed-1754-4a4b-a8e4-b6ba98f3c45e.mp3'
+2025-06-27 16:06:03,983 - INFO - User: m\u1ea5y gi\u1edd r\u1ed3i
+Bot: Bây gi\u1edd là 16:05:59.
+2025-06-27 16:10:05,728 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_2de95e78-ebd3-4420-b545-e8b52d611d42.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_2de95e78-ebd3-4420-b545-e8b52d611d42.mp3'
+2025-06-27 16:10:05,729 - INFO - User: tìm ki\u1ebfm hình \u1ea3nh siêu nhân
+Bot: \u0110ã m\u1edf tìm ki\u1ebfm hình \u1ea3nh cho: siêu nhân
+2025-06-27 16:10:19,082 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_0a3341b1-857c-449b-8a92-06e505acb814.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_0a3341b1-857c-449b-8a92-06e505acb814.mp3'
+2025-06-27 16:10:19,082 - INFO - User: t\u1eaft máy
+Bot: \u0110ang t\u1eaft máy...
+2025-06-27 16:27:32,303 - ERROR - Audio control initialization error: name 'AudioUtilities' is not defined
+2025-06-27 18:21:14,779 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-27 18:21:15,147 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-27 19:59:45,451 - ERROR - Audio control initialization error: name 'AudioUtilities' is not defined
+2025-06-27 20:00:00,518 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_d5624d25-a947-480f-8eeb-9b60b3268317.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_d5624d25-a947-480f-8eeb-9b60b3268317.mp3'
+2025-06-27 20:00:00,519 - INFO - User: xin chào
+Bot: Xin chào! R\u1ea5t vui \u0111\u01b0\u1ee3c trò chuy\u1ec7n v\u1edbi b\u1ea1n.
+2025-06-27 20:00:01,759 - ERROR - Speech recognition error: Could not find PyAudio; check installation
+2025-06-27 20:00:28,573 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_9af76743-502a-4e59-863a-5cc4063b9bbc.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_9af76743-502a-4e59-863a-5cc4063b9bbc.mp3'
+2025-06-27 20:00:28,574 - INFO - User: th\u1eddi ti\u1ebft
+Bot: Vui lòng cung c\u1ea5p \u0111\u1ecba \u0111i\u1ec3m \u0111\u1ec3 xem th\u1eddi ti\u1ebft.
+2025-06-27 20:00:42,335 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_522b6042-934b-44bd-885d-534d36065fe6.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_522b6042-934b-44bd-885d-534d36065fe6.mp3'
+2025-06-27 20:00:42,336 - INFO - User: ngày mai là th\u1ee9 m\u1ea5y
+Bot: Hôm nay là Th\u1ee9 Sáu.
+2025-06-27 20:01:00,044 - ERROR - Error removing temp file C:\Users\DELL\AppData\Local\Temp\temp_50facb7b-f734-4287-ad2f-e4681edbbfd5.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\AppData\\Local\\Temp\\temp_50facb7b-f734-4287-ad2f-e4681edbbfd5.mp3'
+2025-06-27 20:01:00,044 - INFO - User: ngày hi\u1ec7n t\u1ea1i
+Bot: Hôm nay là 27/06/2025.
