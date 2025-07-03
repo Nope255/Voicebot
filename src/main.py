@@ -1,14 +1,14 @@
 from gui import window
 from type import (
-    Appliation, SysArgv, SysExit
+    Application, SysArgv, SysExit
 )
 
 def main() -> None:
-    application = Appliation(SysArgv)
+    application = Application(SysArgv)
 
     mainWindow = window.Window()
     mainWindow.InitApplication()
-    
+
     SysExit(application.exec())
     
 if __name__ == "__main__":
