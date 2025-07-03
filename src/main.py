@@ -1,5 +1,5 @@
 from gui import window
-from type import (
+from alias import (
     Application, SysArgv, SysExit
 )
 
