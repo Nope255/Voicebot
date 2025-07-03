@@ -1,7 +1,7 @@
 from alias import (
     Application, Critical, MainWindow
 )
-from constains import (
+from constants import (
     APP_NAME, APP_VERSION, APP_WIDTH, APP_HEIGHT
 )
 
